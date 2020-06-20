@@ -1,8 +1,5 @@
 # How To Use
-Start by executing the following code
-```
-./adventure
-```
+Start by executing the following code```./adventure```
 
 Enter a username to play with and follow the directions. Enter command 'help' or 'h' to see all CMDS, and 'look' or 'l' to see the room name, floor name, items in the room, and the items in  your inventory.
 
