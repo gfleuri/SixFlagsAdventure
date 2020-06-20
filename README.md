@@ -6,11 +6,9 @@ Start by executing the following code
 
 Enter a username to play with and follow the directions. Enter command 'help' or 'h' to see all CMDS, and 'look' or 'l' to see the room name, floor name, items in the room, and the items in  your inventory.
 
-take <item>   - take items from room
+take (item)   - take items from room          drop (item)   - drop items from inventory
   
-drop <item>   - drop items from inventory
-  
-use <item>    - use item from inventory
+use (item)    - use item from inventory
   
 look,l        - look inside room
 
