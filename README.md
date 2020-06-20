@@ -1,5 +1,5 @@
-# SixFlagsAdventure
-Mini Adventure Game exploring areas of Six Flags in search for treasure!
+# THE SECRET SILVER OF SIX FLAGS
+A Mini Adventure Game exploring areas of Six Flags in search for treasure!
 
 The game has 28 different locations to explore. Each location may or may not contain items. 
 This is done through the item_add method in items.c. The default item list are specified 
