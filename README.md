@@ -19,7 +19,7 @@ go (north/south/east/west/up/down) - move cmd
 # How It Works
 
 
-## THE SECRET SILVER OF SIX FLAGS
+### THE SECRET SILVER OF SIX FLAGS
 A Mini Adventure Game exploring areas of Six Flags in search for treasure!
 
 The game has 28 different locations to explore. Each location may or may not contain items. 
