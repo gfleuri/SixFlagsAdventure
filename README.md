@@ -1,4 +1,25 @@
-# THE SECRET SILVER OF SIX FLAGS
+# How To Use
+Run "./adventure"
+
+Enter a username to play with and follow the directions.
+
+Enter command 'help' or 'h' to see all CMDS, and 'look' or 'l' to see the 
+room name, floor name, items in the room, and the items in  your inventory.
+
+take <item>   - take items from room
+drop <item>   - drop items from inventory
+use <item>    - use item from inventory
+look,l        - look inside room
+quit,q        - quit the game
+help,h        - shows commands
+desc,d        - view description of inventory items
+go (north/south/east/west/up/down) - move cmd
+** shrt cut -> gn, gs, ge, gw, gu, gd
+
+# How It Works
+
+
+## THE SECRET SILVER OF SIX FLAGS
 A Mini Adventure Game exploring areas of Six Flags in search for treasure!
 
 The game has 28 different locations to explore. Each location may or may not contain items. 
