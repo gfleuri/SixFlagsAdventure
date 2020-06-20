@@ -5,9 +5,9 @@ The game has 28 different locations to explore. Each location may or may not con
 This is done through the item_add method in items.c. The default item list are specified 
 when initializing the locations. You can see the area you're in with the command look 
 and you can see the description of the items with the command desc. You can move through each 
-room with 'go <direction>'. You can pickup items with the command 'take <item>'. You can use 
-items with 'use <item>'. Using the item ORB's in my game will alter the state of the room you're 
-in and randomly teleport you to another location. You can also use 'drop <item>' to drop items 
+room with 'go *direction*'. You can pickup items with the command 'take *item*'. You can use 
+items with 'use *item*'. Using the item ORB's in my game will alter the state of the room you're 
+in and randomly teleport you to another location. You can also use 'drop *item*' to drop items 
 back into the room/location. You can win the game by using all 3 shards in the room with the 
 Treasure chest item.
 
