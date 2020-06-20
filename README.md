@@ -1,5 +1,8 @@
 # How To Use
-Run "./adventure"
+Start by executing the following code
+...
+./adventure
+...
 
 Enter a username to play with and follow the directions.
 
