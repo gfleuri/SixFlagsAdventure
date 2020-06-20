@@ -1,8 +1,8 @@
 # How To Use
 Start by executing the following code
-...
+```
 ./adventure
-...
+```
 
 Enter a username to play with and follow the directions.
 
