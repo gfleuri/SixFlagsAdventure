@@ -19,6 +19,9 @@ go (north/south/east/west/up/down) - move cmd
 ** shrt cut -> gn, gs, ge, gw, gu, gd
 ```
 
+### Admin Controls
+If the username provided contains ```~!``` then upon commencment, the user will see where all the items (orbs, shards, and the treasure chest) are located.
+
 # How It Works
 
 
@@ -34,7 +37,7 @@ items with ```use <item>```. Using the item ORB's in my game will alter the stat
 in and randomly teleport you to another location. You can also use ```drop <item>``` to drop items 
 back into the room/location. 
 
-In order to win the game by using all 3 shards in the room with the Treasure chest item.
+In order to win the game the user must collect and use all 3 shards in the room with the Treasure chest item.
 
 The game will recognize all occurences of inproper inputs and responded with a help message
 like 'wrong command' or specify what was needed to have a succesful input.
