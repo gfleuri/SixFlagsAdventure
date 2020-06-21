@@ -20,7 +20,8 @@ go (north/south/east/west/up/down) - move cmd
 ```
 
 ### Admin Controls
-If the username provided contains ```~!``` then upon commencment, the user will see where all the items (orbs, shards, and the treasure chest) are located.
+If the username provided contains ```~!```, then upon commencment, the user will be prompted 
+with every location of each exisiting item (orbs, shards, and the treasure chest) in the game. 
 
 # How It Works
 
