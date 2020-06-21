@@ -1,5 +1,5 @@
 # How To Use
-Start by executing the following code
+Start by executing the following in the console
 ```
 ./adventure
 ```
