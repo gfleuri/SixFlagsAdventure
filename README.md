@@ -8,19 +8,19 @@ Enter a username to play with and follow the directions. Enter command 'help' or
 
 Game Commands:
 
-take (item)   - take items from room
+take (item)    - take items from room
 
-drop (item)   - drop items from inventory
+drop (item)    - drop items from inventory
   
-use (item)    - use item from inventory
+use (item)     - use item from inventory
   
-look,l        - look inside room
+look, l        - look inside room
 
-quit,q        - quit the game
+quit, q        - quit the game
 
-help,h        - shows commands
+help, h        - shows commands
 
-desc,d        - view description of inventory items
+desc, d        - view description of inventory items
 
 go (north/south/east/west/up/down) - move cmd
 
