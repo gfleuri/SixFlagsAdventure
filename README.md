@@ -46,7 +46,3 @@ In order to win the game by using all 3 shards in the room with the Treasure che
 
 The game will recognize all occurences of inproper inputs and responded with a help message
 like 'wrong command' or specify what was needed to have a succesful input.
-
-I also used short-cut commands that can be viewed with command "help" or "h".
-
-But the regular commands work as well. Just more user friendly.
